@@ -1,4 +1,14 @@
+
 # Spa
+
+# In this application the following topics have been applied:
+
+#Single Page Application
+#Installation of bootstrap or third-party libraries using the Angular-CLI
+#reation of routes
+#Use of RouterLink and RouterLinkActive to move the page and place classes on the active elements.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
