@@ -3,10 +3,13 @@
 
 # In this application the following topics have been applied:
 
-#Single Page Application
-#Installation of bootstrap or third-party libraries using the Angular-CLI
-#reation of routes
-#Use of RouterLink and RouterLinkActive to move the page and place classes on the active elements.
+Single Page Application
+
+Installation of bootstrap or third-party libraries using the Angular-CLI
+
+Creation of routes
+
+Use of RouterLink and RouterLinkActive to move the page and place classes on the active elements.
 
 
 
